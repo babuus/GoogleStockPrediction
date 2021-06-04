@@ -1,7 +1,8 @@
 # GoogleStockPrediction
 
 ## HISTOGRAM
-GoogleStockPrediction/HistDiagram.png at master · babuus/GoogleStockPrediction
+
+https://github.com/babuus/GoogleStockPrediction/blob/master/images/HistDiagram.png
 
 LinearRegression - 0.9770268095780726
 
